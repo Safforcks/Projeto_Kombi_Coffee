@@ -10,3 +10,5 @@ Reprodução do layout “Kombi Coffee” com HTML5 e CSS3, incluindo navegaçã
 
 ## 🧰 Tecnologias
 HTML5 · CSS3
+
+🌐 Acesse o projeto online: [Clique aqui para abrir o projeto](https://projeto-kombi-coffee.vercel.app/)
