@@ -1,0 +1,99 @@
+#container {
+  margin: auto;
+  width: 992px;
+  height: auto;
+}
+.ocultar {
+  display: none;
+}
+header {
+  text-align: center;
+}
+nav {
+  background-color: rgb(85, 22, 22);
+  margin-bottom: -10px;
+}
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+nav ul li {
+  margin: 0 20px;
+  padding: 10px 10px;
+  font-family: sans-serif;
+}
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+main {
+  background-color: rgb(245, 245, 245);
+  margin-top: -15px;
+  border-bottom: 1px solid rgb(221, 221, 221);
+}
+.bannar {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.text_color {
+  color: rgb(85, 22, 22);
+  font-size: 60px;
+  text-align: center;
+  margin: auto;
+  padding: 10px 0;
+  font-family: sans-serif;
+}
+.text_color2 {
+  border: 1px solid rgb(85, 22, 22);
+  border-radius: 50%;
+  color: white;
+  position: ;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(85, 22, 22);
+  opacity: 50%;
+  padding: 30px 15px 0px 15px;
+  text-align: center;
+  align-items: center;
+  position: absolute;
+  margin: -170px 0 0 50px;
+}
+section {
+  color: rgb(85, 22, 22);
+  font-family: sans-serif;
+  margin: 15px;
+}
+.secao1 {
+  display: flex;
+  margin-top: -15px;
+}
+.secao1 p {
+  font-size: 15px;
+  width: 330px;
+}
+.secao2 {
+  display: flex;
+  margin-top: -15px;
+}
+.secao2 p {
+  font-size: 15px;
+  width: 330px;
+  margin: auto 0;
+}
+.secao2 p a {
+  color: rgb(85, 22, 22);
+}
+.caixa {
+  display: flex;
+}
+footer {
+  font-size: 10px;
+  color: rgb(139, 139, 139);
+  text-align: end;
+  margin: -5px 0;
+  border-left: 1px solid rgb(245, 245, 245);
+  border-right: 1px solid rgb(245, 245, 245);
+  padding: 10px 10px 0 5px;
+}
