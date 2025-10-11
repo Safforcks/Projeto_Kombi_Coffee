@@ -1,6 +1,6 @@
-# ☕ Kombi Coffee
+# ☕ Kombi Coffee - 31/03/2025
 
-Reprodução do layout “Kombi Coffee” com HTML5 e CSS3, incluindo navegação, hero, seções de destaque e rodapé. Projeto acadêmico voltado a boas práticas de semântica, responsividade e organização de código.
+Eu desenvolvi a reprodução do layout “Kombi Coffee” utilizando HTML5 e CSS3, incluindo navegação, seção principal (hero), áreas de destaque e rodapé. Este projeto acadêmico foi criado com foco em boas práticas de semântica, responsividade e organização de código, fazendo parte do meu treinamento e aprendizado prático em desenvolvimento web.
 
 ## 🎯 Objetivos
 - Estruturar páginas com **HTML5** semântico
